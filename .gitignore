@@ -1,0 +1,13 @@
+/target
+/test-output
+/.idea
+/.settings
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.project
+.classpath
+.DS_Store
